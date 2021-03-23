@@ -1,0 +1,5 @@
+name: 'mytwigmodule'
+type: module
+description: 'module for twig'
+package: 'Custom'
+core_version_requirement: ^8 || ^9
